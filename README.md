@@ -1,2 +1,12 @@
 # AI-PROCESSORS-ARCHITECTURE-PROJECT
-Testing the performance of different architectures on CIFAR-10 dataset.
+Goal: Testing the performance of different architectures on CIFAR-10 dataset.
+
+In the realm of computer vision, image recognition stands as a fundamental and challenging task with extensive applications spanning object detection, content filtering, autonomous driving, and medical diagnostics. The crux of achieving high accuracy in image recognition often lies in the selection of an appropriate neural network architecture. Among these architectures, Convolutional Neural Networks (CNNs) hold a pivotal position, specifically designed to process data structured in a grid-like topology. This makes them adept at handling spatial and temporal data, particularly images and videos, where neighboring elements maintain a significant correlation.
+
+CNNs, as a specialized class within neural networks, stand out due to their incorporation of convolutional layers. These layers execute a mathematical operation called convolution, essentially a specialized form of matrix multiplication. The convolutional layers analyze input data through small squares, enabling the network to learn distinctive visual attributes while retaining the spatial relationship between pixels.
+
+A CNN architecture comprises several key components: Convolutional Layers, Pooling Layers, Fully Connected Layers, and an Output Layer. In the pursuit of evaluating and comparing the efficacy of CNNs in handling the complexity of image classification, this study focuses on five prominent architectures: AlexNet, LeNet, ResNet, GoogLeNet, and VGG16.
+
+The CIFAR-10 dataset, consisting of 60,000 32x32 color images categorized into ten classes, serves as the benchmark for this analysis. Its relatively small size and diverse content present a challenging task for image classification. The aim of this study is to elucidate how these state-of-the-art CNN architectures navigate and interpret the intricacies of the CIFAR-10 dataset. Through this analysis, both the strengths and weaknesses of each architecture in handling this complex image classification task will be unveiled.
+
+Ultimately, by assessing and contrasting the performance of these distinct CNN architectures, this study endeavors to provide insights into their adaptability, robustness, and efficiency in tackling the challenges posed by image recognition tasks, shedding light on their practical implications across various real-world applications.
