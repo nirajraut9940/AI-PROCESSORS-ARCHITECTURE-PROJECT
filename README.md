@@ -1,4 +1,4 @@
-# AI-PROCESSORS-ARCHITECTURE-PROJECT
+# PERFORMING IMAGE CLASSIFICATION ON CIFAR-10
 Goal: Testing the performance of different architectures on CIFAR-10 dataset.
 
 In the realm of computer vision, image recognition stands as a fundamental and challenging task with extensive applications spanning object detection, content filtering, autonomous driving, and medical diagnostics. The crux of achieving high accuracy in image recognition often lies in the selection of an appropriate neural network architecture. Among these architectures, Convolutional Neural Networks (CNNs) hold a pivotal position, specifically designed to process data structured in a grid-like topology. This makes them adept at handling spatial and temporal data, particularly images and videos, where neighboring elements maintain a significant correlation.
